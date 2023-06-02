@@ -9,9 +9,13 @@
 - 🔭 I’m currently a graduate student in computer science
 - 🌱 I’m currently learning Java and Operating System.
 
+----
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yifu-deng&show_icons=true&theme=transparent&count_private=true" alt="Yifu's GitHub stats">
 </div>
+
+----
 
 #### Languages and Tools
 
