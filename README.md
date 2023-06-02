@@ -4,6 +4,8 @@
 	<br>
 </div>
 
+----
+
 ### Hi, I am Yifu 👋
 
 - 🔭 I’m currently a graduate student in computer science
@@ -14,8 +16,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yifu-deng&show_icons=true&theme=transparent&count_private=true" alt="Yifu's GitHub stats">
 </div>
-
-----
 
 #### Languages and Tools
 
