@@ -35,6 +35,5 @@
 
 <img align="center" src="https://raw.githubusercontent.com/yifu-deng/yifu-deng/master/github-contribution-grid-snake-dark.svg" />
 
-----
 
 > ***💪🏼 Learning is a lifelong journey that never ends.***
