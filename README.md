@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently a graduate student in computer science
 - 🌱 I’m currently learning Java and Operating System.
-- 💪🏼 Learning is a lifelong journey that never ends.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yifu-deng&show_icons=true&theme=radical&count_private=true" alt="Yifu's GitHub stats">
@@ -29,3 +28,5 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <img align="center" src="https://raw.githubusercontent.com/yifu-deng/yifu-deng/master/github-contribution-grid-snake-dark.svg" />
+
+> ***💪🏼 Learning is a lifelong journey that never ends.***
