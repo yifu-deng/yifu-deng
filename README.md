@@ -24,8 +24,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-<div style="text-align:center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yifu-deng&show_icons=true&theme=radical&count_private=true" alt="Yifu's GitHub stats">
 </div>
+
 
 <img align="center" src="https://raw.githubusercontent.com/yifu-deng/yifu-deng/master/github-contribution-grid-snake-dark.svg" />
