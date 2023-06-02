@@ -11,7 +11,7 @@
 - 💪🏼 Learning is a lifelong journey that never ends.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yifu-deng&show_icons=true&theme=radical&count_private=true" alt="Yifu's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yifu-deng&show_icons=true&theme=radical&count_private=true" alt=" Yifu's GitHub stats">
 </div>
 
 #### Languages and Tools
