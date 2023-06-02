@@ -33,7 +33,8 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-<img align="center" src="https://raw.githubusercontent.com/yifu-deng/yifu-deng/master/github-contribution-grid-snake-dark.svg" />
+----
 
+<img align="center" src="https://raw.githubusercontent.com/yifu-deng/yifu-deng/master/github-contribution-grid-snake-dark.svg" />
 
 > ***💪🏼 Learning is a lifelong journey that never ends.***
