@@ -4,8 +4,6 @@
 	<br>
 </div>
 
-----
-
 ### Hi, I am Yifu 👋
 
 - 🔭 I’m currently a graduate student in computer science
