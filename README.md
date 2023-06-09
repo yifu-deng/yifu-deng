@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-### Hi, I am Yifu 👋
+### Hi, This is Yifu 👋
 
 - 🔭 I’m currently a graduate student in computer science
 - 🌱 I’m currently learning Java and Operating System.
