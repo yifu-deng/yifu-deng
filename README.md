@@ -1,20 +1,19 @@
 <div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-	<br>
+ <br>
+ <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+ <br>
 </div>
 
-### Hi, This is Yifu 👋
+### Hi there, This is Yifu 👋
 
 - 🔭 I’m currently a graduate student in computer science
-
-----
+- 📫 For more information, please visit my [homepage](https://yifu-deng.github.io/)!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yifu-deng&show_icons=true&theme=transparent&count_private=true" alt="Yifu's GitHub stats">
 </div>
 
-#### Languages and Tools
+<!-- #### Languages and Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -30,8 +29,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) -->
 
-----
 
-> ***Learning is a lifelong journey that never ends***
+<!-- > ***Learning is a lifelong journey that never ends*** -->
