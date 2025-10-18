@@ -6,7 +6,7 @@
 
 ### Hi there, This is Yifu 👋
 
-- 🔭 I’m currently a graduate student in computer science
+- 🔭 I’m currently a PhD student in Transportation Engineering.
 - 📫 For more information, please visit my [homepage](https://yifu-deng.github.io/)!
 
 <div align="center">
